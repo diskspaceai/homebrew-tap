@@ -1,6 +1,6 @@
 cask "diskspace-ai" do
-  version "1.0.16"
-  sha256 "f4114870d8dcf36d9e41de834c5c4e4a00bf6a05c9c61ccac241d145bf6b3f2d"
+  version "1.0.17"
+  sha256 "e0a3b68c6ab2b33eb325491665d090856b5ba7bf73d245995fcdb3ed9ef767aa"
 
   url "https://diskspaceai.com/actualizaciones/DiskSpaceAI-#{version}.zip"
   name "DiskSpace AI"
